@@ -2,5 +2,6 @@
   "shipit.coffee",
   "ascii.coffee",
   "animal.coffee",
-  "spotify.coffee"
+  "spotify.coffee",
+  "tweet-content.coffee"
 ]
