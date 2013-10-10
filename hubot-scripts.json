@@ -1,0 +1,6 @@
+[
+  "redis-brain.coffee", 
+  "shipit.coffee",
+  "ascii.coffee",
+  "animal.coffee"
+]

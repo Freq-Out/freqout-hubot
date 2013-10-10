@@ -1,0 +1,1 @@
+web: bin/hubot --adapter hall -n "Hu Bot"
