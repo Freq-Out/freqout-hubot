@@ -5,7 +5,7 @@
 #   None
 #
 # Configuration:
-#   HUBOT_AIRTIME_URL
+#   HUBOT_AIRTIME_URL - URL to Airtime installation, like http://airtime.myhost.com
 #
 # Commands:
 #   hubot airtime now - Display what's currently broadcasted on Airtime
