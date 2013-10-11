@@ -3,5 +3,6 @@
   "ascii.coffee",
   "animal.coffee",
   "spotify.coffee",
-  "tweet-content.coffee"
+  "tweet-content.coffee",
+  "soundcloud-info.coffee"
 ]
