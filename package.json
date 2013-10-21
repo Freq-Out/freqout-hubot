@@ -30,7 +30,8 @@
     "htmlparser":     "1.7.6",
     "soupselect":     "0.2.0",
     "ntwitter":       "0.2.10",
-    "underscore":     "1.5.1"
+    "underscore":     "1.5.1",
+    "hubot-airtime":  "latest"
   },
 
   "engines": {
