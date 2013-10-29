@@ -1,1 +1,1 @@
-web: bin/hubot --adapter hall -n "Hu Bot"
+web: bin/hubot --adapter hall -n "Wanna Bot"
